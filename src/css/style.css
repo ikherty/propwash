@@ -129,7 +129,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #intro .intro-text {
-  padding-top: 140px;
+  padding-top: 120px;
   text-align: center;
   vertical-align: top;
 }
@@ -247,13 +247,13 @@ h1, h2, h3, h4, h5, h6 {
     height: 430px;
   }
   #intro .product-screens .product-screen-1 {
-    height: 360px;
+    height: 370px;
   }
   #intro .product-screens .product-screen-2 {
-    height: 335px;
+    height: 398px;
   }
   #intro .product-screens .product-screen-3 {
-    height: 290px;
+    height: 370px;
   }
 }
 
