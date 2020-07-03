@@ -1,8 +1,6 @@
 ## PropWash Service
-## q
-### q
-#### q
-#####
+Маленькая мастерская, проектируем, собираем и чиним летательные аппараты и не только;)
+
 ### Поддержка и связь
 ◢◤◢◤[YouTube](https://www.youtube.com/c/PropWashService)◢◤
 [Instagram](https://www.instagram.com/ikhertu)◢◤
