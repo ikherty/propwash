@@ -206,7 +206,7 @@ h1, h2, h3, h4, h5, h6 {
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 2;
+  bottom: 1;
   overflow: hidden;
   padding-top: 0px;
   text-align: center;
@@ -242,6 +242,20 @@ h1, h2, h3, h4, h5, h6 {
   height: 330px;
 }
 
+
+
+
+@media (max-width: 767px) and (max-height: 639px) {	
+  #intro .product-screens {	
+    height: 400px;	
+  }	
+  #intro .product-screens .product-screen-1 {	
+    position: static;	
+  }	
+  #intro .product-screens .product-screen-2, #intro .product-screens .product-screen-3 {	
+    display: none;	
+  }
+}
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
