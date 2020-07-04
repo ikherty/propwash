@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #e9e8e6;
+  background: #232a57;
   box-shadow: 0px 0px 25px 0 rgba(0, 0, 0, 0.08);
   z-index: 997;
   padding: 15px 0;
@@ -132,7 +132,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a {
-  color: #222222;
+  color: #f0f2ff;
 }
 
 #header .logo img {
@@ -168,7 +168,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #888888;
+  color: #f0f2ff;
   transition: 0.3s;
   font-size: 15px;
   font-family: "Raleway", sans-serif;
@@ -194,7 +194,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #222222;
+  color: #F5D0A9;
 }
 
 .nav-menu .drop-down ul {
@@ -227,7 +227,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   font-weight: 500;
   text-transform: none;
-  color: #222222;
+  color: #232a57;
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
@@ -324,7 +324,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
   outline: none;
 }
-
+/*тут цвет значков при наведении указателя*/
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
   color: #34b7a7;
   text-decoration: none;
