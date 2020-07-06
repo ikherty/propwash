@@ -10,7 +10,8 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #19295a;
+  background: #e3edff;
 }
 
 a {
@@ -194,7 +195,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #F5D0A9;
+  color: #d9eafe;/*цвет при наведении указателя*/
 }
 
 .nav-menu .drop-down ul {
@@ -630,7 +631,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #555555;
+  color: #19295a;
 }
 
 .about .content ul {
@@ -992,7 +993,7 @@ section {
   font-weight: 500;
   line-height: 1;
   text-transform: uppercase;
-  color: #444444;
+  color: #19295a;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
   border-radius: 50px;
@@ -1306,9 +1307,9 @@ section {
 
 /*--------------------------------------------------------------
 # Footer
---------------------------------------------------------------*/
+--------------------------------------------------------------
 #footer {
-  background: #e9e8e6;
+  background: #e9e8e6;//цвет
   padding: 30px 0;
   color: #222222;
   font-size: 14px;
@@ -1323,3 +1324,4 @@ section {
 #footer .credits a {
   color: #34b7a7;
 }
+*/
