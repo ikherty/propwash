@@ -1269,7 +1269,7 @@ section {
 --------------------------------------------------------------*/
 .contact .info {
   width: 100%;
-  background: #fff;
+  background: #e3edff;
 }
 
 .contact .info i {
@@ -1307,12 +1307,12 @@ section {
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
   background: #34b7a7;
-  color: #fff;
+  color: #e3edff;
 }
 
 .contact .php-email-form {
   width: 100%;
-  background: #fff;
+  background: #e3edff;
 }
 
 .contact .php-email-form .form-group {
@@ -1329,7 +1329,7 @@ section {
 
 .contact .php-email-form .error-message {
   display: none;
-  color: #fff;
+  color: #e3edff;
   background: #ed3c0d;
   text-align: center;
   padding: 15px;
@@ -1338,7 +1338,7 @@ section {
 
 .contact .php-email-form .sent-message {
   display: none;
-  color: #fff;
+  color: #e3edff;
   background: #18d26e;
   text-align: center;
   padding: 15px;
@@ -1347,7 +1347,7 @@ section {
 
 .contact .php-email-form .loading {
   display: none;
-  background: #fff;
+  background: #e3edff;
   text-align: center;
   padding: 15px;
 }
