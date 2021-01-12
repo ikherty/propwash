@@ -177,7 +177,17 @@
 
       </div>
     </section><!-- End Skills Section -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.bundle.js"  crossorigin="anonymous"></script>
 
+<div id="menu">Популярность на канале:<hr /></div>
+
+        </canvas><canvas id="myChart"></canvas>
+
+<script>
+
+var ctx = document.getElementById('myChart').getContext('2d'); var myChart = new Chart(ctx, { type: 'line', data: { labels: ['2018', '2019', '2020', '2021'], datasets: [ {label: "Количество подписчиков", data: [80, 200, 800, 1270], backgroundColor: "rgba(120, 138, 224)" }] } });
+
+</script>
     <!-- ======= Facts Section ======= -->
     <section id="facts" class="facts">
       <div class="container" data-aos="fade-up">
@@ -195,7 +205,7 @@
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">1230</span>
+            <span data-toggle="counter-up">1280</span>
             <p>Подписчика</p>
           </div>
 
